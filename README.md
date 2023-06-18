@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suriya131198&label=Profile%20views&color=0e75b6&style=flat" alt="suriya131198" /> </p>
 
-- 🔭 I’m currently working on **TCS**
+- 🔭 I’m currently working on **Tata Consultancy Services**
 
 - 🌱 I’m currently learning **Data Analytics & Machine Learning**
 
