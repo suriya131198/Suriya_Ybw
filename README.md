@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analytics & Machine Learning**
 
-- 📫 How to reach me **suriya131198@gmail.com/+91-8903854978**
+- 📫 How to reach me - **suriya131198@gmail.com/+91-8903854978**
 
 - 📄 Know about my experiences [https://github.com/suriya131198/Data-Analysis/blob/main/Resume/Suriya%20Palanivel%20Resume.pdf](https://github.com/suriya131198/Data-Analysis/blob/main/Resume/Suriya%20Palanivel%20Resume.pdf)
 
