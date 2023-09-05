@@ -1,8 +1,6 @@
 <h1 align="center">Hey! I'm Suriya</h1>
 <h3 align="center">A passionate Developer from Planet Earth 🌎</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suriya131198" alt="suriya131198" /></a> </p>
-
 - 🔭 I’m currently working on **Tata Consultancy Services**
 
 - 👯 I’m looking to collaborate on **Data Analysis and Machine Learning**
