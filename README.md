@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Tata Consultancy Services**
 
-- 👯 I’m looking to collaborate on **Data Analysis and Machine Learning**
+- 👯 Working as a **Data Analyst**, Passionate towards **Machine Learning & Deep Learning**
 
 - 📫 How to reach me **suriya131198@gmail.com/+91 8903854978**
 
