@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **suriya131198@gmail.com/+91 8903854978**
 
-- 📄 Know about my experiences [GIT](https://github.com/suriya131198/Data-Analysis/blob/main/Resume/Suriya%20Palanivel%20Resume.pdf)
+- 📄 Know about my experiences [(Resume)](https://github.com/suriya131198/Data-Analysis/blob/main/Resume/Suriya%20Palanivel%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
